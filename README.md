@@ -222,17 +222,6 @@ HTML/CSS      █████░░░░░░░░░░░░░░░
 
 ---
 
-## 🎓 Education
-
-| Qualification | Year |
-|--------------|------|
-| BCA | 2025 |
-| ITI COPA | 2020 |
-| HSC | 2018 |
-| SSC | 2016 |
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
