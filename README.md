@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h5NXRhN2Q4ZzR5cXlpd2Y3N2VmbmV5NDF4a2N0N3VlOWJmdWZxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+  
 # 👋 Hey, I'm Kunal Mendarkar
 
 ### Software Engineer | .NET Developer | ERP Specialist | Full Stack Developer
